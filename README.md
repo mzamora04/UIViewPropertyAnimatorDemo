@@ -3,4 +3,4 @@ A simple Swift demo using UIViewPropertyAnimator to showcase a simple fading pla
 
 ![](https://github.com/mzamora04/UIViewPropertyAnimatorDemo/blob/main/Demo.gif)
 
-Implimented with Core Graphics, including CGAffine.
+Implemented with Core Graphics, including CGAffine.
